@@ -6,6 +6,8 @@ CLAVE: 123456789
 
 PAGINA ADMINISTRACIÓN: 10.1.1.1/admin.html
 
+/----------------------------------------------------------/
+
 INSTALADOR ONLINE
 
 HOST FULL, INCLUYE COLECCIÓN DE PAYLOADS CON GOLDHEN 2.3
