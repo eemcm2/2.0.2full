@@ -5,7 +5,7 @@
   "builds": [
     {
       "chipFamily": "ESP32-S2",
-      "parts": [{ "path": "eemcm2_fullhost_10012023.bin", "offset": 0 }]
+      "parts": [{ "path": "eemcm2_full_110123.bin", "offset": 0 }]
     }
   ]
 }
